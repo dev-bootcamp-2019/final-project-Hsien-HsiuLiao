@@ -81,7 +81,7 @@ On the Admin panel of the app, there is an 'Emergency Stop' button. Once this is
 
 
 # Screenshots on how to use the app
-Open browser
+After you have copied the seed phrase from the ganache-cli output, Open browser
 ![Step 1](screenshots/3.png "Open browser")
 Click on Metamask, click on Import...
 ![alt text](screenshots/4.png "Click on Metamask, click on Import...")
