@@ -20,8 +20,3 @@ module.exports = {
      }
   }
 };
-//var infura = "https://rinkeby.infura.io/v3/e8746dd884324d37984f917e061064ee"
-//var HDWallet = require("truffle-hdwallet-provider");
-//const infuraKey = "e8746dd884324d37984f917e061064ee";
-//const fs = require('fs');
-//const mnemonic = fs.readFileSync(".secret").toString().trim();
